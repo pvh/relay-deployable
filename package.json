@@ -10,7 +10,7 @@
     "start": "node server.js"
   },
   "dependencies": {
-    "@localfirst/relay": "3"
+    "@localfirst/relay-monorepo": "github:pvh/relay"
   },
   "engines": {
     "node": ">=10"
